@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+
+# Test files
+test_portrait.png
+test_*.py
+
+# Database (if contains user data)
+database/*.db
+
+# OS files
+.DS_Store
+Thumbs.db
